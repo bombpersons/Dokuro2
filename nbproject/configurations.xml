@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="f2" displayName="Components" projectFiles="true">
+        <logicalFolder name="f3" displayName="Drawable" projectFiles="true">
+          <logicalFolder name="f1" displayName="Gui" projectFiles="true">
+            <itemPath>Components/Drawable/Gui/GuiPanelComponent.hpp</itemPath>
+          </logicalFolder>
+          <itemPath>Components/Drawable/AnimatedSpriteComponent.hpp</itemPath>
+          <itemPath>Components/Drawable/DrawableComponent.hpp</itemPath>
+          <itemPath>Components/ScreenComponent.hpp</itemPath>
+          <itemPath>Components/Drawable/SpriteComponent.hpp</itemPath>
+          <itemPath>Components/Drawable/StaticSpriteComponent.hpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="EntityList" projectFiles="true">
+          <itemPath>Components/EntityList/EntityListComponent.hpp</itemPath>
+          <itemPath>Components/EntityList/NonMapEntityListComponent.hpp</itemPath>
+          <itemPath>Components/EntityList/VectorEntityListComponent.hpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f2" displayName="Sprites" projectFiles="true">
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="Exceptions" projectFiles="true">
+        <itemPath>Exceptions/Exception.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f8" displayName="Factory" projectFiles="true">
+        <itemPath>Factory/ComponentFactory.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="Game" projectFiles="true">
+        <itemPath>Game/Game.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="GuiChan" displayName="GuiChan" projectFiles="true">
+        <logicalFolder name="guichan" displayName="guichan" projectFiles="true">
+          <logicalFolder name="widgets" displayName="widgets" projectFiles="true">
+            <itemPath>GuiChan/guichan/widgets/button.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/button.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/checkbox.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/checkbox.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/container.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/container.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/dropdown.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/dropdown.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/icon.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/icon.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/imagebutton.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/imagebutton.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/label.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/label.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/listbox.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/listbox.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/radiobutton.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/radiobutton.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/scrollarea.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/scrollarea.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/slider.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/slider.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/tab.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/tab.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/tabbedarea.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/tabbedarea.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/textbox.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/textbox.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/textfield.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/textfield.hpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/window.cpp</itemPath>
+            <itemPath>GuiChan/guichan/widgets/window.hpp</itemPath>
+          </logicalFolder>
+          <itemPath>GuiChan/guichan/actionevent.cpp</itemPath>
+          <itemPath>GuiChan/guichan/actionevent.hpp</itemPath>
+          <itemPath>GuiChan/guichan/actionlistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/basiccontainer.cpp</itemPath>
+          <itemPath>GuiChan/guichan/basiccontainer.hpp</itemPath>
+          <itemPath>GuiChan/guichan/cliprectangle.cpp</itemPath>
+          <itemPath>GuiChan/guichan/cliprectangle.hpp</itemPath>
+          <itemPath>GuiChan/guichan/color.cpp</itemPath>
+          <itemPath>GuiChan/guichan/color.hpp</itemPath>
+          <itemPath>GuiChan/guichan/deathlistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/defaultfont.cpp</itemPath>
+          <itemPath>GuiChan/guichan/defaultfont.hpp</itemPath>
+          <itemPath>GuiChan/guichan/event.cpp</itemPath>
+          <itemPath>GuiChan/guichan/event.hpp</itemPath>
+          <itemPath>GuiChan/guichan/exception.cpp</itemPath>
+          <itemPath>GuiChan/guichan/exception.hpp</itemPath>
+          <itemPath>GuiChan/guichan/focushandler.cpp</itemPath>
+          <itemPath>GuiChan/guichan/focushandler.hpp</itemPath>
+          <itemPath>GuiChan/guichan/focuslistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/font.cpp</itemPath>
+          <itemPath>GuiChan/guichan/font.hpp</itemPath>
+          <itemPath>GuiChan/guichan/genericinput.cpp</itemPath>
+          <itemPath>GuiChan/guichan/genericinput.hpp</itemPath>
+          <itemPath>GuiChan/guichan/graphics.cpp</itemPath>
+          <itemPath>GuiChan/guichan/graphics.hpp</itemPath>
+          <itemPath>GuiChan/guichan/gui.cpp</itemPath>
+          <itemPath>GuiChan/guichan/gui.hpp</itemPath>
+          <itemPath>GuiChan/guichan/guichan.cpp</itemPath>
+          <itemPath>GuiChan/guichan/image.cpp</itemPath>
+          <itemPath>GuiChan/guichan/image.hpp</itemPath>
+          <itemPath>GuiChan/guichan/imagefont.cpp</itemPath>
+          <itemPath>GuiChan/guichan/imagefont.hpp</itemPath>
+          <itemPath>GuiChan/guichan/imageloader.hpp</itemPath>
+          <itemPath>GuiChan/guichan/input.hpp</itemPath>
+          <itemPath>GuiChan/guichan/inputevent.cpp</itemPath>
+          <itemPath>GuiChan/guichan/inputevent.hpp</itemPath>
+          <itemPath>GuiChan/guichan/key.cpp</itemPath>
+          <itemPath>GuiChan/guichan/key.hpp</itemPath>
+          <itemPath>GuiChan/guichan/keyevent.cpp</itemPath>
+          <itemPath>GuiChan/guichan/keyevent.hpp</itemPath>
+          <itemPath>GuiChan/guichan/keyinput.cpp</itemPath>
+          <itemPath>GuiChan/guichan/keyinput.hpp</itemPath>
+          <itemPath>GuiChan/guichan/keylistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/listmodel.hpp</itemPath>
+          <itemPath>GuiChan/guichan/mouseevent.cpp</itemPath>
+          <itemPath>GuiChan/guichan/mouseevent.hpp</itemPath>
+          <itemPath>GuiChan/guichan/mouseinput.cpp</itemPath>
+          <itemPath>GuiChan/guichan/mouseinput.hpp</itemPath>
+          <itemPath>GuiChan/guichan/mouselistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/platform.hpp</itemPath>
+          <itemPath>GuiChan/guichan/rectangle.cpp</itemPath>
+          <itemPath>GuiChan/guichan/rectangle.hpp</itemPath>
+          <itemPath>GuiChan/guichan/selectionevent.cpp</itemPath>
+          <itemPath>GuiChan/guichan/selectionevent.hpp</itemPath>
+          <itemPath>GuiChan/guichan/selectionlistener.hpp</itemPath>
+          <itemPath>GuiChan/guichan/widget.cpp</itemPath>
+          <itemPath>GuiChan/guichan/widget.hpp</itemPath>
+          <itemPath>GuiChan/guichan/widgetlistener.hpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="sfml" displayName="sfml" projectFiles="true">
+          <itemPath>GuiChan/sfml/sfmlfont.hpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlgraphics.hpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlimage.hpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlimageloader.hpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlinput.hpp</itemPath>
+        </logicalFolder>
+        <itemPath>GuiChan/guichan.hpp</itemPath>
+        <itemPath>GuiChan/sfml.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="InputManager" projectFiles="true">
+        <itemPath>InputManager/InputManager.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="ResourceManager" projectFiles="true">
+        <itemPath>ResourceManager/ResourceManager.hpp</itemPath>
+        <itemPath>ResourceManager/ResourceMap.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="Sqrat" displayName="Sqrat" projectFiles="true">
+        <logicalFolder name="sqrat" displayName="sqrat" projectFiles="true">
+          <itemPath>Sqrat/sqrat/sqratAllocator.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratClass.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratClassType.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratConst.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratFunction.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratGlobalMethods.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratMemberMethods.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratObject.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratOverloadMethods.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratScript.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratTable.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratTypes.h</itemPath>
+          <itemPath>Sqrat/sqrat/sqratUtil.h</itemPath>
+        </logicalFolder>
+        <itemPath>Sqrat/sqmodule.h</itemPath>
+        <itemPath>Sqrat/sqrat.h</itemPath>
+        <itemPath>Sqrat/sqratimport.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f7" displayName="Squirrel" projectFiles="true">
+        <itemPath>Squirrel/Bindings.hpp</itemPath>
+        <itemPath>Squirrel/SFMLBinding.hpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f6" displayName="Tracer" projectFiles="true">
+        <itemPath>Tracer/Tracer.hpp</itemPath>
+      </logicalFolder>
+      <itemPath>Component.hpp</itemPath>
+      <itemPath>Entity.hpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="f3" displayName="Components" projectFiles="true">
+        <logicalFolder name="f2" displayName="Drawable" projectFiles="true">
+          <logicalFolder name="f1" displayName="Gui" projectFiles="true">
+            <itemPath>Components/Drawable/Gui/GuiPanelComponent.cpp</itemPath>
+          </logicalFolder>
+          <itemPath>Components/Drawable/AnimatedSpriteComponent.cpp</itemPath>
+          <itemPath>Components/Drawable/DrawableComponent.cpp</itemPath>
+          <itemPath>Components/Drawable/SpriteComponent.cpp</itemPath>
+          <itemPath>Components/Drawable/StaticSpriteComponent.cpp</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="EntityList" projectFiles="true">
+          <itemPath>Components/EntityList/EntityListComponent.cpp</itemPath>
+          <itemPath>Components/EntityList/NonMapEntityListComponent.cpp</itemPath>
+          <itemPath>Components/EntityList/VectorEntityListComponent.cpp</itemPath>
+        </logicalFolder>
+        <itemPath>Components/ScreenComponent.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="Exceptions" projectFiles="true">
+        <itemPath>Exceptions/Exception.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f9" displayName="Factory" projectFiles="true">
+        <itemPath>Factory/ComponentFactory.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="Game" projectFiles="true">
+        <itemPath>Game/Game.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f7" displayName="GuiChan" projectFiles="true">
+        <logicalFolder name="f1" displayName="sfml" projectFiles="true">
+          <itemPath>GuiChan/sfml/sfmlfont.cpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlgraphics.cpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlimage.cpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlimageloader.cpp</itemPath>
+          <itemPath>GuiChan/sfml/sfmlinput.cpp</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="InputManager" projectFiles="true">
+        <itemPath>InputManager/InputManager.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="ResourceManager" projectFiles="true">
+        <itemPath>ResourceManager/ResourceManager.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f8" displayName="Squirrel" projectFiles="true">
+        <itemPath>Squirrel/Bindings.cpp</itemPath>
+        <itemPath>Squirrel/SFMLBinding.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f6" displayName="Tracer" projectFiles="true">
+        <itemPath>Tracer/Tracer.cpp</itemPath>
+      </logicalFolder>
+      <itemPath>Component.cpp</itemPath>
+      <itemPath>Entity.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>Sqrat</Elem>
+    <Elem>GuiChan</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="3">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>GuiChan</pElem>
+          </incDir>
+          <commandLine>-std=c++0x</commandLine>
+        </ccTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+    </conf>
+    <conf name="Release" type="3">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>
